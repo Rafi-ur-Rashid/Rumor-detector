@@ -15,6 +15,16 @@ In this step, we estimate the possibility of a news being rumorous in a complete
 ## Step 3: Automated Campaigning  
 Based on the results derived from previous two steps, the authority will eventually determine whether a news should be considered rumorous or not. If it is marked as a rumor then an automated anti rumor campaigning will be launched on social media to make people aware of the fact.  
 ## Flow Chart:  
-![GitHub Logo](/images/logo.png)
+![Flow chart](flowchart.jpg)
+## Technologies used:  
+-Browser Extension, website (HTML, CSS, JavaScript)  
+-Machine Learning  
+-Python  
+-Google Search API
+## Work flow diagram:
+![Work flow diagram](work_flow.PNG)
+![Work flow diagram](work_flow2.PNG)
 
-
+##Example: 
+![Example](example.PNG)
+![Example](example2.PNG)
